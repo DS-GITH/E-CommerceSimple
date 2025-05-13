@@ -1,0 +1,1 @@
+document.querySelector("div#temperature").addEventListener("click", function() {alert("Apertado")})
