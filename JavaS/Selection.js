@@ -1,0 +1,1 @@
+document.getElementById("temperature").innerHTML = "Mudando Texto de um Elemento por id";

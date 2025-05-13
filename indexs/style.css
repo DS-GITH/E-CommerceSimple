@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to top, #87CEEB, #ffffff);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+  }
+  
+  header {
+    background-color: #4DA6FF;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .container {
+    padding: 40px 20px;
+  }
+  
+  .card {
+    background-color: white;
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    padding: 30px;
+  }
+  
+  .temperature {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .condition {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .location {
+    font-size: 18px;
+    color: #666;
+    margin-top: 5px;
+  }
+  
+  footer {
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+  
